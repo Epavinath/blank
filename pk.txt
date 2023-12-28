@@ -1,0 +1,5 @@
+#"pk"
+#python string cancotination
+p="praveen"
+k="kumar"
+print("pk:",p+k)
